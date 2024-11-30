@@ -2,15 +2,15 @@
 <p align="right">
 <a href="https://wakatime.com/@d387a980-9e90-47a7-ab90-7f783ad7dc8f"><img src="https://wakatime.com/badge/user/d387a980-9e90-47a7-ab90-7f783ad7dc8f.svg" alt="Total time coded since Jan 6 2023" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
-<h3 align="center">I'm a versatile developer skilled in frontend, backend and creating engaging digital experience. 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Shashwat Mishra</h1>
+<h3 align="center">I'm an enthusiastic web developer passionate about creating innovative and user-friendly web applications. With a solid foundation in both front-end and back-end technologies. 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=airbornharsh&label=Profile%20views&color=0e75b6&style=flat" alt="airbornharsh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=airbornharsh&label=Profile%20views&color=0e75b6&style=flat" alt="airbornshashwat" /> </p>
 
 - 💬 Ask me about **javascript,react,Express**
 
-- 📫 How to reach me **49harshyadav@gmail.com**
+- 📫 How to reach me **shashwatmishra444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
